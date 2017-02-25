@@ -1,0 +1,10 @@
+esprit\tn\infini\pidev\services\UserServiceLocal.class
+esprit\tn\infini\pidev\persistence\Todo.class
+esprit\tn\infini\pidev\services\UserServiceRemote.class
+esprit\tn\infini\pidev\util\DBPopulator.class
+esprit\tn\infini\pidev\persistence\User.class
+esprit\tn\infini\pidev\services\TodoServiceLocal.class
+esprit\tn\infini\pidev\persistence\Discussion.class
+esprit\tn\infini\pidev\services\UserService.class
+esprit\tn\infini\pidev\services\TodoServiceRemote.class
+esprit\tn\infini\pidev\services\TodoService.class
